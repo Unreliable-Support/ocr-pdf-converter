@@ -10,7 +10,6 @@ This project was built to demonstrate end-to-end automation capabilities, integr
 
 This tool transforms unusable, image-based PDFs into professional, fully searchable documents.
 
-![Before and After Comparison](before-after.png)
 
 ---
 
@@ -18,7 +17,7 @@ This tool transforms unusable, image-based PDFs into professional, fully searcha
 
 The application orchestrates a multi-stage, parallel processing pipeline to ensure both accuracy and speed, even with large documents.
 
-![System Architecture Diagram](system-architecture.png)
+
 
 ---
 
@@ -36,7 +35,7 @@ This application provides a complete, user-friendly solution by orchestrating a 
 
 A user-friendly and responsive interface built with `customtkinter` allows for easy file management and output customization.
 
-![Application GUI Screenshot](gui-screenshot.png)
+
 
 ### Technology Stack
 *   **Python 3:**
@@ -57,7 +56,8 @@ This application requires Tesseract and Pandoc to be installed on your system an
 **2. Clone the Repository & Install Python Libraries:**
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/intelligent-pdf-converter.git
+git clone https://github.com/Unreliable-Support/ocr-pdf-converter.git
+
 
 # Navigate to the project directory
 cd intelligent-pdf-converter
